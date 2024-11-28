@@ -21,3 +21,20 @@ criaCartao(
     'Nimona',
     '"Nimona" é uma animação vibrante e cheia de ação, baseada na webcomic de ND Stevenson. A história segue Nimona, uma jovem shapeshifter que se torna aliada de Ballister Blackheart, um cavaleiro injustamente acusado de um crime. Juntos, eles desafiam a ordem estabelecida em um reino futurista que mistura elementos medievais com tecnologia avançada. O filme aborda temas como amizade, aceitação e a luta contra a opressão, enquanto Nimona, com sua personalidade rebelde e humor contagiante, questiona as normas sociais e o que significa ser um vilão ou um herói. Com uma animação estilizada e uma trilha sonora envolvente, "Nimona" é uma história emocionante que mistura aventura e reflexão, cativando tanto jovens quanto adultos.'
 )
+
+criaCartao(
+    'Literatura'
+    'Verity'
+    '"Verity", de Colleen Hoover, é um thriller psicológico que mergulha no mundo da literatura e dos segredos obscuros. A história acompanha Lowen Ashleigh, uma escritora em dificuldades que é contratada para finalizar a série de livros de Verity Crawford, uma autora famosa que sofreu um acidente e está incapacitada. Ao investigar os arquivos de Verity, Lowen descobre um manuscrito que revela verdades perturbadoras sobre a vida da autora, incluindo segredos sobre sua família e seus relacionamentos. A tensão aumenta à medida que Lowen se vê envolvida em um jogo psicológico, questionando a veracidade das palavras escritas e as motivações de Verity. Com reviravoltas surpreendentes e uma prosa envolvente, "Verity" mantém os leitores em suspense, explorando os limites da ambição, da moralidade e da verdade.'
+)
+
+criaCartao(
+    'Cinema'
+    'Robô Selvagem'
+    '"Robô Selvagem" é uma animação divertida e emocionante que segue a história de um robô desajeitado e carismático, que se torna um inesperado herói ao se unir a um grupo de crianças em uma aventura para salvar sua cidade. Com um enredo que mistura ação e comédia, o filme explora temas como amizade, coragem e a aceitação das diferenças. A animação é rica em visuais vibrantes e diálogos espirituosos, cativando tanto o público jovem quanto os adultos. A jornada do robô, que aprende a se valorizar e a encontrar seu lugar no mundo, ressoa com os espectadores, tornando "Robo Selvagem" uma história encantadora sobre a descoberta de si mesmo e a importância de lutar pelo que é certo.'
+)
+criaCartao(
+    'Literatura'
+    'Frankenstein'
+    '"Frankenstein", de Mary Shelley, é um marco da literatura gótica que narra a trágica história de Victor Frankenstein, um cientista que, em sua busca insaciável por conhecimento, cria uma criatura a partir de partes de cadáveres. Ao se deparar com a horrenda realidade de sua criação, Victor a abandona, desencadeando uma série de eventos devastadores. A obra explora temas profundos como a natureza da humanidade, a busca por aceitação e as consequências da ambição desmedida, enquanto a criatura, rejeitada pela sociedade e seu criador, luta por amor e compreensão, mas é consumida pela dor e pelo desejo de vingança. Com sua narrativa provocativa, "Frankenstein" continua relevante, levantando questões sobre ética na ciência e a responsabilidade que vem com o ato de criar.'
+)
