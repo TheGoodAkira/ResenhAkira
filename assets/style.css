@@ -1,7 +1,7 @@
 :root {
     --text-color: #DBE4EF;
     --card-front-color: #800000;
-    --card-back-color: black; 
+    --card-back-color: rgb(255, 169, 169); 
 }
 
 body {
@@ -41,7 +41,7 @@ body {
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
-    font-size: 1vw;
+    font-size: 14px ;
     backface-visibility: hidden;
 }
 
