@@ -46,10 +46,10 @@ body {
 }
 
 .cartao__conteudo p {
-    margin-top: 1rem;
-    padding: 2rem;
+    margin-top: 0.5px;
+    padding: 1px;
     margin-top: 4rem;
-    font-size: 1.4vw;
+    font-size: 1vw;
 }
 
 .cartao__conteudo__pergunta p {
